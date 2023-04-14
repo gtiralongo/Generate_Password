@@ -8,4 +8,6 @@ Elección del largo de la contraseña siempre y cuando no superando los caracter
 
 Copiado al portapapeles de la contraseña generada.
 
+Por ultimo un boton de limpieza de contraseña para generar nuevas
+
 ![demo_video](https://user-images.githubusercontent.com/55749965/232059065-d05b2cda-094c-4cc8-99a0-68207680be87.gif)
