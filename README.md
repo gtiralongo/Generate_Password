@@ -11,3 +11,30 @@ Copiado al portapapeles de la contraseña generada.
 Por ultimo un boton de limpieza de contraseña para generar nuevas
 
 ![demo_video](https://user-images.githubusercontent.com/55749965/232059065-d05b2cda-094c-4cc8-99a0-68207680be87.gif)
+
+# Generate_Password
+
+Este código genera contraseñas seguras.
+
+## Argumentos
+
+* `length` (int): La longitud de la contraseña.
+* `symbols` (list): La lista de símbolos que se pueden usar en la contraseña.
+
+## Retorno
+
+* str: La contraseña generada.
+
+## Ejemplo
+
+```python
+>>> generate_password(12, ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j'])
+'abcdefghij'
+
+
+## Notas
+
+* La contraseña se genera aleatoriamente.
+* La contraseña es segura porque utiliza una combinación de letras, números y símbolos.
+
+
