@@ -1,5 +1,7 @@
 # Generate-Password
 
+Este código genera contraseñas seguras.
+
 Esta basado en el framework flet y tambien utiliza el paquete randon 
 
 Seleccion de varias opciones de caracteres a la hora de armar la contraseña (Minusculas, Mayusculas, Simbolos, Numeros)
@@ -11,10 +13,6 @@ Copiado al portapapeles de la contraseña generada.
 Por ultimo un boton de limpieza de contraseña para generar nuevas
 
 ![demo_video](https://user-images.githubusercontent.com/55749965/232059065-d05b2cda-094c-4cc8-99a0-68207680be87.gif)
-
-# Generate_Password
-
-Este código genera contraseñas seguras.
 
 ## Argumentos
 
@@ -36,5 +34,6 @@ Este código genera contraseñas seguras.
 
 * La contraseña se genera aleatoriamente.
 * La contraseña es segura porque utiliza una combinación de letras, números y símbolos.
+* La contraseña puede ser facilmente copiada por medio de un boton.
 
 
